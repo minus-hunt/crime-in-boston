@@ -1,0 +1,4 @@
+data/crime.csv
+data/offense_codes.csv
+.ipynb_checkpoints/crime_in_boston_predict-checkpoint.ipynb
+.ipynb_checkpoints/crime-checkpoint.ipynb
